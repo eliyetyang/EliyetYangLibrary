@@ -1,17 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Built application files
 *.apk
 *.ap_
@@ -108,3 +94,15 @@ crashlytics-build.properties
 
 
 
+将删除 app/libs/
+将删除 app/src/main/java/com/library/yang/eliyet/eliyetyanglibrary/entity/
+将删除 app/src/main/res/drawable/
+将删除 app/src/main/res/layout/
+将删除 app/src/main/res/menu/
+将删除 app/src/main/res/values/
+将删除 libs/
+将删除 src/main/java/com/library/yang/eliyet/eliyetyanglibrary/entity/
+将删除 src/main/res/drawable/
+将删除 src/main/res/layout/
+将删除 src/main/res/menu/
+将删除 src/main/res/values/
